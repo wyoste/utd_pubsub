@@ -2,7 +2,7 @@ import json
 import csv
 from google.cloud import pubsub_v1
 
-project_name = 'dito-contact-center-ai-sandbox'
+project_name = 'yoste-gcp'
 topic_name = 'sales'
 file = 'Sales.csv'
 
