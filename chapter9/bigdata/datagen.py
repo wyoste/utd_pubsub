@@ -4,7 +4,7 @@ from google.cloud import pubsub_v1
 
 project_name = 'nifty-matrix-463401-p'
 topic_name = 'Sales'
-file = 'Sales.csv'
+file = 'Sales-1.csv'
 
 publisher = pubsub_v1.PublisherClient()
 topic_path = publisher.topic_path(project_name, topic_name)
