@@ -3,7 +3,7 @@ import csv
 from google.cloud import pubsub_v1
 
 project_name = 'nifty-matrix-463401-p'
-topic_name = 'sales'
+topic_name = 'Sales'
 file = 'Sales.csv'
 
 publisher = pubsub_v1.PublisherClient()
