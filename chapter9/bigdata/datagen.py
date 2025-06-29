@@ -13,4 +13,5 @@ with open(file) as filehandle:
     rd = csv.DictReader(filehandle, delimiter=',')
     for row in rd:
         data = json.dumps(dict(row))
+        print(f"Publishing: {data}")
         publisher.publish(topic_path, data=data.encode('utf-8'))
