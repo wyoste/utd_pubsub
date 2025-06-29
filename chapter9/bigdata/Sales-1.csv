@@ -1,0 +1,100 @@
+Region,Country,Item_Type,Order_ID,Units_Sold,Unit_Price,Total_Revenue
+Sub-Saharan Africa,South Africa,Fruits,443368995,1593,9.33,14862.69
+Middle East and North Africa,Morocco,Clothes,667593514,4611,109.28,503890.08
+Australia and Oceania,Papua New Guinea,Meat,940995585,360,421.89,151880.4
+Sub-Saharan Africa,Djibouti,Clothes,880811536,562,109.28,61415.36
+Europe,Slovakia,Beverages,174590194,3973,47.45,188518.85
+Asia,Sri Lanka,Fruits,830192887,1379,9.33,12866.07
+Sub-Saharan Africa,Seychelles ,Beverages,425793445,597,47.45,28327.65
+Sub-Saharan Africa,Tanzania,Beverages,659878194,1476,47.45,70036.2
+Sub-Saharan Africa,Ghana,Office Supplies,601245963,896,651.21,583484.16
+Sub-Saharan Africa,Tanzania,Cosmetics,739008080,7768,437.2,3396169.6
+Asia,Taiwan,Fruits,732588374,8034,9.33,74957.22
+Middle East and North Africa,Algeria,Cosmetics,761723172,9669,437.2,4227286.8
+Asia,Singapore,Snacks,176461303,7676,152.58,1171204.08
+Australia and Oceania,Papua New Guinea,Clothes,647164094,9092,109.28,993573.76
+Asia,Vietnam,Personal Care,314505374,7984,81.73,652532.32
+Sub-Saharan Africa,Uganda,Personal Care,539471471,451,81.73,36860.23
+Sub-Saharan Africa,Zimbabwe,Office Supplies,953361213,9623,651.21,6266593.83
+Sub-Saharan Africa,Ethiopia,Cosmetics,807785928,662,437.2,289426.4
+Europe,France,Cosmetics,324669444,5758,437.2,2517397.6
+Central America and the Caribbean,The Bahamas,Personal Care,246248090,9137,81.73,746767.01
+Central America and the Caribbean,Haiti,Office Supplies,485070693,2052,651.21,1336282.92
+Central America and the Caribbean,Nicaragua,Household,573998582,7791,668.27,5206491.57
+Asia,Turkmenistan,Vegetables,116205585,6670,154.06,1027580.2
+Europe,United Kingdom,Cosmetics,135178029,1038,437.2,453813.6
+Central America and the Caribbean,Dominican Republic,Baby Food,824714744,274,255.28,69946.72
+Asia,China,Office Supplies,198927056,5791,651.21,3771157.11
+Sub-Saharan Africa,Uganda,Cosmetics,842238795,6031,437.2,2636753.2
+Middle East and North Africa,Kuwait,Household,459386289,1466,668.27,979683.82
+Middle East and North Africa,United Arab Emirates,Office Supplies,425418365,9603,651.21,6253569.63
+Europe,Estonia,Household,835696351,9976,668.27,6666661.52
+Asia,Malaysia,Beverages,955894076,9154,47.45,434357.3
+Australia and Oceania,Vanuatu,Fruits,571997869,5735,9.33,53507.55
+Asia,India,Snacks,440306556,5349,152.58,816150.42
+Australia and Oceania,Samoa ,Household,937431466,5657,668.27,3780403.39
+Asia,Kazakhstan,Snacks,710296428,1352,152.58,206288.16
+Europe,Czech Republic,Cosmetics,726137769,9157,437.2,4003440.4
+Europe,Belgium,Personal Care,222504317,2827,81.73,231050.71
+Europe,Finland,Household,757257401,8148,668.27,5445063.96
+Middle East and North Africa,Oman,Cosmetics,358570849,7937,437.2,3470056.4
+Central America and the Caribbean,Dominica,Household,274930989,7044,668.27,4707293.88
+Europe,Serbia,Clothes,925136649,7348,109.28,802989.44
+Sub-Saharan Africa,Sao Tome and Principe,Clothes,548299157,2760,109.28,301612.8
+Asia,Brunei,Cereal,153842341,4222,205.7,868465.4
+Middle East and North Africa,Israel,Beverages,371502530,4709,47.45,223442.05
+Australia and Oceania,Solomon Islands,Household,101328551,4225,668.27,2823440.75
+Sub-Saharan Africa,Togo,Cosmetics,563681733,4806,437.2,2101183.2
+Sub-Saharan Africa,Mauritius ,Clothes,349235904,5520,109.28,603225.6
+North America,Canada,Cosmetics,368977391,7464,437.2,3263260.8
+Middle East and North Africa,Lebanon,Meat,704205024,8770,421.89,3699975.3
+Sub-Saharan Africa,Tanzania,Fruits,156530129,9599,9.33,89558.67
+Asia,South Korea,Meat,297876536,7141,421.89,3012716.49
+Asia,Indonesia,Household,520480573,623,668.27,416332.21
+Central America and the Caribbean,Antigua and Barbuda ,Office Supplies,286891067,6297,651.21,4100669.37
+Middle East and North Africa,Tunisia ,Cosmetics,479969346,2450,437.2,1071140
+Asia,Thailand,Meat,252889239,4401,421.89,1856737.89
+Asia,Nepal,Meat,179137074,9496,421.89,4006267.44
+Europe,Montenegro,Clothes,902511680,2117,109.28,231345.76
+Europe,Greece,Cereal,887124383,8674,205.7,1784241.8
+Europe,Monaco,Beverages,467399013,2609,47.45,123797.05
+Asia,Taiwan,Cereal,498071897,9397,205.7,1932962.9
+Europe,Albania,Personal Care,104191863,1543,81.73,126109.39
+Central America and the Caribbean,Saint Lucia,Fruits,731120240,3581,9.33,33410.73
+Europe,Italy,Cereal,294530856,7080,205.7,1456356
+Europe,Switzerland,Office Supplies,830410039,5639,651.21,3672173.19
+Europe,Netherlands,Fruits,845056617,9887,9.33,92245.71
+Europe,Sweden,Beverages,265081918,2485,47.45,117913.25
+Europe,Italy,Cereal,887409770,3126,205.7,643018.2
+Sub-Saharan Africa,Burundi,Beverages,529276502,3533,47.45,167640.85
+Europe,Iceland,Baby Food,678230941,2462,255.28,628499.36
+Europe,Finland,Vegetables,642134416,698,154.06,107533.88
+Sub-Saharan Africa,Rwanda,Fruits,699160754,6059,9.33,56530.47
+Asia,Japan,Household,747796285,8393,668.27,5608790.11
+Europe,Romania,Beverages,756839835,4581,47.45,217368.45
+Central America and the Caribbean,Belize,Personal Care,315402734,3533,81.73,288752.09
+Middle East and North Africa,Egypt,Clothes,882908809,1192,109.28,130261.76
+Australia and Oceania,Tonga,Baby Food,839094388,5531,255.28,1411953.68
+Asia,Thailand,Fruits,434008300,1555,9.33,14508.15
+Central America and the Caribbean,Dominica,Beverages,438011872,6301,47.45,298982.45
+Sub-Saharan Africa,Ghana,Clothes,791778934,3836,109.28,419198.08
+Australia and Oceania,East Timor,Cereal,156295812,259,205.7,53276.3
+Sub-Saharan Africa,The Gambia,Fruits,862861335,8699,9.33,81161.67
+Sub-Saharan Africa,Mali,Household,363086831,4317,668.27,2884921.59
+Asia,Indonesia,Personal Care,678896129,9306,81.73,760579.38
+Europe,Albania,Baby Food,752525556,7890,255.28,2014159.2
+Sub-Saharan Africa,Ghana,Fruits,496523940,1323,9.33,12343.59
+Central America and the Caribbean,Nicaragua,Baby Food,343752610,2891,255.28,738014.48
+Europe,Italy,Office Supplies,797385394,2913,651.21,1896974.73
+Europe,Moldova ,Fruits,180908620,3736,9.33,34856.88
+Central America and the Caribbean,The Bahamas,Fruits,488121116,4740,9.33,44224.2
+Europe,Romania,Cereal,633134210,7337,205.7,1509220.9
+Middle East and North Africa,Pakistan,Meat,500371730,9969,421.89,4205821.41
+Sub-Saharan Africa,Madagascar,Clothes,494570004,3110,109.28,339860.8
+North America,United States of America,Personal Care,190777862,4264,81.73,348496.72
+Sub-Saharan Africa,Democratic Republic of the Congo,Cosmetics,584356629,2967,437.2,1297172.4
+Australia and Oceania,New Zealand,Beverages,940980136,5788,47.45,274640.6
+Sub-Saharan Africa,Liberia,Baby Food,146634709,1324,255.28,337990.72
+Asia,Turkmenistan,Meat,757619178,5206,421.89,2196359.34
+Sub-Saharan Africa,Malawi,Meat,450544869,5094,421.89,2149107.66
+Australia and Oceania,Vanuatu,Cereal,572335612,5681,205.7,1168581.7
